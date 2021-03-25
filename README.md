@@ -1,2 +1,6 @@
-# hello-world
-It's proud to be a Thurstan Knight
+# Beginner To Python
+Sed Lyf
+
+## Hello World
+
+Yeah Download Code & Run 'hellowrld.py'
